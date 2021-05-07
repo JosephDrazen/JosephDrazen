@@ -8,5 +8,5 @@
 
 ### Some projects I'm most proud of are: 
 
-- A fun stock market snadbox created with React, Node, and Express: https://github.com/JosephDrazen/UCLEI---Stock-Trading-Platform-Sandbox
+- A fun stock market sandbox created with React, Node, and Express: https://github.com/JosephDrazen/UCLEI---Stock-Trading-Platform-Sandbox
 - A COVID-19 Tracking tool made with React, Express, and MongoDB: https://github.com/JosephDrazen/cuhacking_2021
